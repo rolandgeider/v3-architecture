@@ -50,7 +50,7 @@ Next time this document is requested the request will be fulfilled immediately f
 ```
 {
   'view.html': 'http://google.com',
-  'imgs/icons/*': 'telfonica.com/icons/*'
+  'imgs/icons/*': 'telefonica.com/icons/*'
 }
 ```
 
